@@ -1,2 +1,11 @@
-# crypto-price-tracker
-I'm learning web development by building simple projects and improving my coding skills. This repository is part of my journey and I'll keep updating it with new features as I learn. Feedback and suggestions are always welcome! 
+# Hi, I'm Been 👋
+
+  Beginner Web Developer
+
+## My Projects
+- 💰 Crypto Price Tracker
+
+  - Live Demo: https://beenmod10.github.io/crypto-price-tracker/
+  - Repository: https://github.com/beenmod10/crypto-price-tracker
+
+I'm currently learning HTML, CSS and JavaScript and building projects to improve my skills.
